@@ -1,0 +1,72 @@
+.container {
+    max-width: 300px; /* Genişliği daha daralttım */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Başlık stilini belirleyelim */
+h1 {
+    font-size: 24px;.container {
+        max-width: 300px; /* Genişliği daha daralttım */
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      
+      /* Başlık stilini belirleyelim */
+      h3 {
+        font-size: 24px;
+      }
+      
+      /* Form kutularına ve butona stil ekleyelim */
+      .form-group label {
+        font-weight: bold;
+      }
+      
+      .form-control {
+        width: 100%; /* Genişliği tam genişlik olarak ayarladım */
+        border-radius: 4px;
+        height: 36px; /* Yüksekliği biraz küçülttüm */
+        font-size: 14px; /* Font boyutunu küçülttüm */
+      }
+      
+      .btn-primary {
+        width: 100%;
+        padding: 8px; /* Yüksekliği biraz küçülttüm */
+        border-radius: 4px;
+        font-size: 14px; /* Font boyutunu küçülttüm */
+      }
+      
+      .mt-3 {
+        margin-top: 1rem;
+      }
+      
+}
+
+/* Form kutularına ve butona stil ekleyelim */
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%; /* Genişliği tam genişlik olarak ayarladım */
+    border-radius: 4px;
+    height: 36px; /* Yüksekliği biraz küçülttüm */
+    font-size: 14px; /* Font boyutunu küçülttüm */
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 8px; /* Yüksekliği biraz küçülttüm */
+    border-radius: 4px;
+    font-size: 14px; /* Font boyutunu küçülttüm */
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
